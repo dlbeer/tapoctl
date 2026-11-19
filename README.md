@@ -55,3 +55,8 @@ firmware (v2, with v1 fallback). Devices that only speak the older
 "securePassthrough" protocol are skipped during discovery. AES-128-CBC is
 implemented in pure Python (`src/tapoctl/aes.py`), because the standard library
 has no block cipher.
+
+## Licence
+
+Public domain. This code was generated entirely by an AI model (Claude), so
+it is dedicated to the public domain under the Unlicense; see `LICENSE`.
